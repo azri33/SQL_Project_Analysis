@@ -1,4 +1,3 @@
-
 -- Understanding daily crypto returns
 -- This helps track whether the price goes up or down each day and shows the percentage profit or loss
 -- The LAG() function is used to get yesterday's price so we can compare it with today's price
