@@ -2,7 +2,6 @@
 -- Starting with an initial capital of RM10,000, the query simulates how the portfolio grows over time based on the predefined asset allocation 
 -- The results reflect the real monetary growth of the portfolio, aligned with the weighted returns
 -- This model can be further enhanced by adjusting portfolio weights or initial capital to optimize returns
--- The capital would be rm 10000
 
 
 WITH portfolio AS (
